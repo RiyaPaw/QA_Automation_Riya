@@ -1,1 +1,1 @@
-Java Selenium Ptractice 
+Java Selenium Practice 
